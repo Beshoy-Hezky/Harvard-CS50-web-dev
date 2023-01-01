@@ -1,0 +1,30 @@
+.foo1{
+    margin: 10px;
+    list-style: none;
+    display:inline;
+}
+
+.var{
+    margin-top: 30px;
+    text-align: right;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+  }
+ 
+  a:visited {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: black;
+    text-decoration: none;
+  }
