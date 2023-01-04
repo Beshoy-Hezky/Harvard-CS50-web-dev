@@ -9,7 +9,7 @@
     text-align: right;
 }
 
-a:link {
+  a:link {
     color: black;
     text-decoration: none;
   }
@@ -28,3 +28,10 @@ a:link {
     color: black;
     text-decoration: none;
   }
+
+.center_it{
+  width:100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
